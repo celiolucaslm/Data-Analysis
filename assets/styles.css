@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(17, 17, 17);
+    color: white;
+}
+
+.dashboard-container {
+    background-color: #111111;
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    overflow: hidden;
+}

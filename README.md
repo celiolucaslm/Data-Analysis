@@ -8,3 +8,13 @@ Abaixo está uma descrição de como as informações foram dispostas.
 
 ## Informações numéricas do dataset
 ![first part](https://github.com/user-attachments/assets/47e39a87-a80a-4c4c-b41f-9972ddbf72f7)
+
+- Nessa parte foi exibido as principais informações numéricas do dataset, incluindo o título e um botão para alterar a exibição de todos os gráficos de acordo com a escolha do gênero pelo usuário.
+
+## Informações demográficas do dataset
+![second part](https://github.com/user-attachments/assets/82db9e8f-f09d-4eec-9ddb-c6034e77efa3)
+
+- Aqui foram colocados dois gráficos para representar as principais informações demográficos dos usuários, além de que ambos são interativos, dando a possibilidade de que o usuário arraste pelo mapa e obter as informações específicas do gráfico apenas passando o mouse.
+
+## Informações sobre o uso do produto pelos usuários
+![third part](https://github.com/user-attachments/assets/f6865390-bb65-47c2-84ee-483151dd82bf)

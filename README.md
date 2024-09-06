@@ -31,7 +31,7 @@ Abaixo está uma descrição de como as informações foram dispostas.
 ![venn](https://github.com/user-attachments/assets/52763b88-91c7-4997-94af-13804a1cd4ea)
 
 
-Dessa forma, apenas os clientes nessa condição foram contabilizados e exibidos para que outros departamentos como de produto, marketing, vendas e etc possam tomar medidas para reter esse usuários.
+- Dessa forma, apenas os clientes nessa condição foram contabilizados e exibidos para que outros departamentos como de produto, marketing, vendas e etc possam tomar medidas para reter esse usuários.
 
-Além de também exibir a distruibuição da interação dos clientes com o suporte, o que é importante do ponto de vista de negócio para entender como tem sido o funcionamento da plataforma.
+- Além de também exibir a distruibuição da interação dos clientes com o suporte, o que é importante do ponto de vista de negócio para entender como tem sido o funcionamento da plataforma.
 

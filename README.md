@@ -28,7 +28,8 @@ Abaixo está uma descrição de como as informações foram dispostas.
 
 - Aqui foi exibido o gráfico da quantidade de usuários com alta tendência a largar a plataforma a partir de uma métrica de negócio definida como:
 
-![venn](https://github.com/user-attachments/assets/12cf85bd-3317-411c-8a44-153aecdecba5)
+![venn](https://github.com/user-attachments/assets/52763b88-91c7-4997-94af-13804a1cd4ea)
+
 
 Dessa forma, apenas os clientes nessa condição foram contabilizados e exibidos para que outros departamentos como de produto, marketing, vendas e etc possam tomar medidas para reter esse usuários.
 

@@ -18,3 +18,19 @@ Abaixo está uma descrição de como as informações foram dispostas.
 
 ## Informações sobre o uso do produto pelos usuários
 ![third part](https://github.com/user-attachments/assets/f6865390-bb65-47c2-84ee-483151dd82bf)
+![third part](https://github.com/user-attachments/assets/d58608b5-7286-4fe6-b1b5-da3737f7cc4e)
+![third part](https://github.com/user-attachments/assets/f7107a15-6d97-472d-995c-71a7fbb152ed)
+
+- Nessa parte foram exibidos os principais dados sobre interações entre os clientes e a plataforma, dando informações sobre os tipos de planos mais assinados, como é feita a renovação pelos usuários a partir do seu engajamento na plataforma, frequência de uso, histórico de compra, gêneros favoritos e os principais dispositivos que são utilizados pelos usuários ao acessarem a plataforma.
+
+## Informações de negócio sobre os clientes
+![final part](https://github.com/user-attachments/assets/12a546f0-7961-4357-aa0c-bb3395a9c0e7)
+
+- Aqui foi exibido o gráfico da quantidade de usuários com alta tendência a largar a plataforma a partir de uma métrica de negócio definida como:
+
+![venn](https://github.com/user-attachments/assets/12cf85bd-3317-411c-8a44-153aecdecba5)
+
+Dessa forma, apenas os clientes nessa condição foram contabilizados e exibidos para que outros departamentos como de produto, marketing, vendas e etc possam tomar medidas para reter esse usuários.
+
+Além de também exibir a distruibuição da interação dos clientes com o suporte, o que é importante do ponto de vista de negócio para entender como tem sido o funcionamento da plataforma.
+

@@ -7,4 +7,4 @@ Para exibir os principais insights coletados durante a análise, foi construído
 Abaixo está uma descrição de como as informações foram dispostas.
 
 ## Informações numéricas do dataset
-![first part](https://github.com/celiolucaslm/Data-Analysis/issues/1)
+![first part](https://github.com/user-attachments/assets/47e39a87-a80a-4c4c-b41f-9972ddbf72f7)
